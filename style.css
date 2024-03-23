@@ -1,0 +1,33 @@
+
+
+.call{
+    height: 70px;
+    left: 10px;
+    bottom: 13px;
+    position: fixed;
+}
+.whatsapp{
+    height: 80px;
+    width: 70px;
+    right: 10px;
+    bottom: 10px;
+    position: fixed;
+}
+
+
+.class{
+    margin-top: 7px;
+    border-radius: 5px;
+}
+.ruwais{
+  font-size: 60px;
+}
+.sila{
+    font-size: 24px;
+}
+.phone{
+    font-size: 30px;
+}
+
+
+
